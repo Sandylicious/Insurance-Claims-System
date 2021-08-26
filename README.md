@@ -1,2 +1,2 @@
 # Reclamations-assurances
-Ce programme calcule les remboursements pour des réclamations d'assurances de soins de santé.
+Ce programme calcule des remboursements de réclamations d'assurances de soins de santé pour la compagnie XXX.
