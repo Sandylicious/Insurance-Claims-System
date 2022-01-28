@@ -5,8 +5,8 @@ import java.util.ArrayList;
  * Cette classe represente la methode principale de notre application servant a generer un fichier de remboursements a partir d'un
  * fichier de reclamation de soins de sante d'un client.
  *
- * @author XRF
- * @author SCA
+ * @author Fang, Xin Ran
+ * @author Ah-Lan, Steven Chia
  */
 
 public class Main {
